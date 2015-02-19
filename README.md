@@ -1,6 +1,6 @@
-ReCAPTCHA
+ReCAPTCHA integration example code.
 =========
-URL: https://github.com/google/ReCAPTCHA
+URL: https://github.com/google/recaptcha-java
 Version:
 License: BSD
 License File: LICENSE
