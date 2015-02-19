@@ -1,3 +1,11 @@
+/*
+ * Copyright (c) 2002-2015, Google reCAPTCHA-java Authors
+ *
+ * This software is distributable under the BSD license. See the terms of the
+ * BSD license in the documentation provided with this software.
+ *
+ * http://www.opensource.org/licenses/bsd-license.php
+ */
 package com.google.recaptcha;
 
 import com.google.common.io.BaseEncoding;
